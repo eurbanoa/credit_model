@@ -2,7 +2,7 @@
 connection_parameters = {
     "account": "vw78242.south-central-us.azure",
     "user": "oweurbanoa",
-    "password": "tAsLu1cAs!",
+    "password": "",
     "warehouse": "CREDIT_RISK_WH",
     "role": "ACCOUNTADMIN",
     "database": "CREDIT_RISK",
