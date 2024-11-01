@@ -1,0 +1,3 @@
+*.csv
+\credit_snowflake\__pycache__/*
+.gitattributes
